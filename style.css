@@ -99,8 +99,6 @@ h1,h2,h3{
     font-weight: 800;
     margin-bottom: 0.5em;
 }
-/* ----------------------------------------------------------------------------------------------------------------- */
-
 
 /* #########################------header-----########################## */
 
@@ -304,8 +302,6 @@ section .case1{
     padding-right: 1rem;
 }
 
-/* ---------count tab---- */
-
 .count .count-item{
     margin-top:3rem;
 }
@@ -332,8 +328,6 @@ section .case1{
     text-transform: capitalize;
     color: #555;
 }
-
-/*----------button ----- */
 
 .about_base{
     background : linear-gradient(25deg,#d64c7f,#ee4758 50%);
@@ -466,8 +460,6 @@ section .case1{
     border: none;
     cursor: pointer;
 }
-
-/* ##################################-----media query (responsive making)------############################################ */
 
 
 @media ( max-width: 513px ){
